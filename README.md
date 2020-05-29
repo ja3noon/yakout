@@ -1,2 +1,0 @@
-# yakout
-Created with CodeSandbox
